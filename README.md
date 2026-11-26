@@ -8,9 +8,9 @@
 
 [**⬇️ İNDİR / DOWNLOAD (Windows)**](../../releases/latest) · [Tüm sürümler / All releases](../../releases)
 
-<img src="docs/shop-tr.png" alt="Chest Tracker — Fortnite mağazası / item shop" width="330">
+<img src="docs/counter.png" alt="Chest Tracker — sandık sayacı / chest counter" width="300">&nbsp;&nbsp;<img src="docs/shop-tr.png" alt="Chest Tracker — Fortnite mağazası / item shop" width="300">
 
-<sub>Programın içindeki Fortnite mağazası: canlı geri sayım, fiyatlar, indirimler ve nadirlik renkleri.<br>The in-app Fortnite item shop: live countdown, prices, discounts and rarity colours.</sub>
+<sub>Solda sandık sayacın, sağda programın içindeki Fortnite mağazası.<br>Your chest counter on the left, the in-app Fortnite item shop on the right.</sub>
 
 </div>
 
@@ -49,7 +49,12 @@ Fortnite her maçında bilgisayarına bir **replay (tekrar) dosyası** kaydeder.
 - **🛒 Fortnite mağazası** — Günün mağazası programın içinde. Ayrıntılar aşağıda.
 - **🛠️ Sorun bildirme (ticket)** — Bir hatayla karşılaşırsan ya da bir isteğin olursa programın içinden doğrudan **sorun bildirebilirsin**. Bildirimin yöneticiye bir kayıt (ticket) olarak düşer, takip edilir.
 - **🌍 Dil desteği** — Ana dil İngilizce; ayrıca Türkçe ve birçok yaygın dil hazır. Program sistem dilini otomatik seçer, menüden elle de değiştirebilirsin.
-- **📊 İstatistik ve grafikler** — Maç dökümleri, grafikler, takım sandıklarını dahil et/çıkar seçeneği, her zaman üstte ve kompakt görünüm.
+- **📊 İstatistik ve grafikler** — Maç dökümleri, grafikler, her zaman üstte ve kompakt görünüm. **Takım sandıklarını** tek tıkla dahil edip çıkarabilirsin:
+
+  <img src="docs/counter-team.png" alt="Takımla birlikte sayım" width="300">
+
+  <sub>"TAKIMLA" görünümü: kendi sandıkların + takım arkadaşlarınınki birlikte.</sub>
+
 
 ### 🛒 Fortnite mağazası (1.0.9 ile geldi)
 
@@ -90,9 +95,9 @@ Program kendini **otomatik ve sessizce** günceller — senin hiçbir şey yapma
 
 [**⬇️ DOWNLOAD (Windows)**](../../releases/latest) · [All releases](../../releases)
 
-<img src="docs/shop-en.png" alt="Chest Tracker — Fortnite item shop" width="330">
+<img src="docs/counter.png" alt="Chest Tracker — chest counter" width="300">&nbsp;&nbsp;<img src="docs/shop-en.png" alt="Chest Tracker — Fortnite item shop" width="300">
 
-<sub>The in-app Fortnite item shop: live countdown, prices, discounts and rarity colours.</sub>
+<sub>Your chest counter on the left, the in-app Fortnite item shop on the right.</sub>
 
 </div>
 
@@ -127,7 +132,12 @@ Fortnite saves a **replay file** on your PC for every match you play. Chest Trac
 - **🛒 Fortnite item shop** — Today's shop, inside the app. Details below.
 - **🛠️ Report an issue (tickets)** — Hit a bug or have a request? You can **report it right from inside the app**. Your report reaches the admin as a tracked ticket.
 - **🌍 Languages** — English is the main language, with Turkish and many other common languages built in. The app picks your system language automatically, and you can switch it from the menu.
-- **📊 Stats & charts** — Per-match breakdowns, charts, an include/exclude-team-chests toggle, plus always-on-top and compact views.
+- **📊 Stats & charts** — Per-match breakdowns, charts, plus always-on-top and compact views. **Team chests** can be included or excluded with one click:
+
+  <img src="docs/counter-team.png" alt="Counting with the team included" width="300">
+
+  <sub>The "WITH TEAM" view: your own chests plus your teammates'.</sub>
+
 
 ### 🛒 Fortnite item shop (new in 1.0.9)
 
