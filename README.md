@@ -6,7 +6,7 @@
 
 🇬🇧 **For the English version, scroll down.** · [İngilizcesi için aşağı inin.](#-chest-tracker-english)
 
-[**⬇️ İNDİR / DOWNLOAD (Windows)**](../../releases/latest/download/ChestTracker-Setup-1.0.8.exe) · [Tüm sürümler / All releases](../../releases)
+[**⬇️ İNDİR / DOWNLOAD (Windows)**](../../releases/latest) · [Tüm sürümler / All releases](../../releases)
 
 </div>
 
@@ -22,7 +22,7 @@ Fortnite her maçında bilgisayarına bir **replay (tekrar) dosyası** kaydeder.
 
 ### Kurulum
 
-1. Yukarıdaki **İNDİR** düğmesinden `ChestTracker-Setup-1.0.8.exe` dosyasını indir.
+1. Yukarıdaki **İNDİR** düğmesine bas ve en son sürümün `ChestTracker-Setup-...exe` dosyasını indir.
 2. Çalıştır. Tek tıkla kurulur, kendisi açılır. Hepsi bu.
 3. Fortnite'ı aç ve oyna. Sandıkların sayılmaya başlar.
 
@@ -42,9 +42,25 @@ Fortnite her maçında bilgisayarına bir **replay (tekrar) dosyası** kaydeder.
 - **🍀 Şans göstergesi** — Açtığın sandık sayısına göre nadir ödül şansın hesaplanır; sandık açtıkça artar.
 - **🎁 Ödül takibi** — Sandıkların yanında maçta çıkan kayda değer ödüller de listelenir.
 - **🎉 Canlı kutlama bildirimleri** — Topluluktan biri özel bir ödül (Token) çıkardığında ekranının sağ alt köşesinde 15 saniyelik bir kutlama (konfeti + ses) belirir. Bildirim oyunun **önünde** görünür ama **odağı çalmaz ve tıklanamaz** — üstüne tıklarsan tıklama arkadaki oyuna geçer, yani oyunun hiçbir şekilde kesilmez. 15 saniyede kendiliğinden kaybolur. Duyurular da aynı şekilde çalışır.
+- **🛒 Fortnite mağazası** — Günün mağazası programın içinde. Ayrıntılar aşağıda.
 - **🛠️ Sorun bildirme (ticket)** — Bir hatayla karşılaşırsan ya da bir isteğin olursa programın içinden doğrudan **sorun bildirebilirsin**. Bildirimin yöneticiye bir kayıt (ticket) olarak düşer, takip edilir.
 - **🌍 Dil desteği** — Ana dil İngilizce; ayrıca Türkçe ve birçok yaygın dil hazır. Program sistem dilini otomatik seçer, menüden elle de değiştirebilirsin.
 - **📊 İstatistik ve grafikler** — Maç dökümleri, grafikler, takım sandıklarını dahil et/çıkar seçeneği, her zaman üstte ve kompakt görünüm.
+
+### 🛒 Fortnite mağazası (1.0.9 ile geldi)
+
+Günün Fortnite mağazasını görmek için oyuna girmene ya da başka bir siteye bakmana gerek yok — başlık çubuğundaki **çanta simgesine** bas, mağaza programın içinde açılır.
+
+- **Günün bütün mağazası** — kıyafetler, sırt aksesuarları, kazmalar, planörler, emoteler, araçlar ve müzik parçaları; oyundaki gibi **bölüm bölüm** düzenli.
+- **Fiyatlar ve indirimler** — her ürünün V-Bucks fiyatı; indirimdeyse eski fiyat üstü çizili, yeni fiyat yanında.
+- **Yeni gelenler işaretli** — o gün mağazaya ilk kez giren ürünlerde **YENİ** rozeti.
+- **Paketler** — bir paketin kaç parça içerdiği kart üzerinde (**+3** gibi) görünür.
+- **Nadirlik renkleri** — her kartın altındaki renk şeridi ürünün nadirliğini gösterir.
+- **Müzik parçaları** — parça adının altında sanatçısı yazar.
+- **⏱️ Yenilenmeye ne kadar kaldı — saniyesi saniyesine.** Mağazanın en üstünde **canlı geri sayım** döner ve yenilenmenin **kendi saat diliminde tam olarak saat kaçta** olacağı yazar (Türkiye için **03:00**; mağaza dünya genelinde 00:00 UTC'de döner).
+- **Kendiliğinden yenilenir** — geri sayım sıfıra indiği anda liste otomatik tazelenir; programı kapatıp açmana ya da bir düğmeye basmana gerek yok.
+- **Senin dilinde** — ürün adları programın diliyle aynı dilde gelir. Menüden dili değiştirdiğinde mağaza da o dile geçer.
+- **Kaynak çökse bile çalışır** — mağaza verisinin geldiği servis arıza yaparsa program yedek bir kaynağa geçer (o durumda ürün adları İngilizce görünür ve kaynak ekranda belirtilir). O da olmazsa en son kaydedilen liste, üstünde açık bir uyarıyla gösterilir; hiçbir zaman sessizce eski veri sunulmaz.
 
 ### 🔄 Arka planda çalışır ve kaynak tüketmez
 
@@ -63,7 +79,7 @@ Program kendini **otomatik ve sessizce** günceller — senin hiçbir şey yapma
 
 **A desktop app that counts the chests you open in Fortnite — automatically, permanently, and effortlessly.**
 
-[**⬇️ DOWNLOAD (Windows)**](../../releases/latest/download/ChestTracker-Setup-1.0.8.exe) · [All releases](../../releases)
+[**⬇️ DOWNLOAD (Windows)**](../../releases/latest) · [All releases](../../releases)
 
 </div>
 
@@ -75,7 +91,7 @@ Fortnite saves a **replay file** on your PC for every match you play. Chest Trac
 
 ### Installation
 
-1. Click **DOWNLOAD** above to get `ChestTracker-Setup-1.0.8.exe`.
+1. Click **DOWNLOAD** above and grab the latest `ChestTracker-Setup-...exe`.
 2. Run it. It installs in one click and launches itself. That's it.
 3. Open Fortnite and play. Your chests start counting.
 
@@ -95,9 +111,25 @@ Fortnite saves a **replay file** on your PC for every match you play. Chest Trac
 - **🍀 Luck meter** — Your chance at rare rewards is estimated from how many chests you've opened, and rises as you open more.
 - **🎁 Reward tracking** — Notable rewards from a match are listed alongside the chests.
 - **🎉 Live celebration alerts** — When someone in the community finds a special reward (a Token), a 15-second celebration (confetti + sound) pops up in the bottom-right of your screen. It appears **on top of** the game but **doesn't steal focus and is click-through** — if you click it, the click goes to the game behind it, so your game is never interrupted. It fades out on its own after 15 seconds. Announcements work the same way.
+- **🛒 Fortnite item shop** — Today's shop, inside the app. Details below.
 - **🛠️ Report an issue (tickets)** — Hit a bug or have a request? You can **report it right from inside the app**. Your report reaches the admin as a tracked ticket.
 - **🌍 Languages** — English is the main language, with Turkish and many other common languages built in. The app picks your system language automatically, and you can switch it from the menu.
 - **📊 Stats & charts** — Per-match breakdowns, charts, an include/exclude-team-chests toggle, plus always-on-top and compact views.
+
+### 🛒 Fortnite item shop (new in 1.0.9)
+
+You don't need to launch the game or check another site to see today's Fortnite item shop — click the **bag icon** in the title bar and the shop opens right inside the app.
+
+- **The whole daily shop** — outfits, back blings, pickaxes, gliders, emotes, cars and jam tracks, organised **section by section** just like in-game.
+- **Prices and discounts** — every item's V-Bucks price; if it's on sale, the old price is struck through next to the new one.
+- **New items flagged** — anything entering the shop that day carries a **NEW** badge.
+- **Bundles** — a card shows how many extra pieces a bundle contains (e.g. **+3**).
+- **Rarity colours** — the colour strip under each card shows the item's rarity.
+- **Jam tracks** — the artist is shown under the track title.
+- **⏱️ Exactly how long until it refreshes — to the second.** A **live countdown** runs at the top of the shop, along with the **exact local time** the refresh happens in your own time zone (the shop rotates worldwide at 00:00 UTC).
+- **Refreshes by itself** — the moment the countdown hits zero the list updates automatically; no restart, no button to press.
+- **In your language** — item names arrive in the same language as the app. Change the language in the menu and the shop follows.
+- **Keeps working if the source goes down** — if the service the shop data comes from has an outage, the app switches to a backup source (item names then show in English, and the source is credited on screen). If that fails too, the last saved list is shown with a clear warning on top — stale data is never passed off as current.
 
 ### 🔄 Runs in the background, uses no resources
 
