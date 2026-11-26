@@ -8,6 +8,10 @@
 
 [**⬇️ İNDİR / DOWNLOAD (Windows)**](../../releases/latest) · [Tüm sürümler / All releases](../../releases)
 
+<img src="docs/shop-tr.png" alt="Chest Tracker — Fortnite mağazası / item shop" width="330">
+
+<sub>Programın içindeki Fortnite mağazası: canlı geri sayım, fiyatlar, indirimler ve nadirlik renkleri.<br>The in-app Fortnite item shop: live countdown, prices, discounts and rarity colours.</sub>
+
 </div>
 
 ---
@@ -59,7 +63,12 @@ Günün Fortnite mağazasını görmek için oyuna girmene ya da başka bir site
 - **Müzik parçaları** — parça adının altında sanatçısı yazar.
 - **⏱️ Yenilenmeye ne kadar kaldı — saniyesi saniyesine.** Mağazanın en üstünde **canlı geri sayım** döner ve yenilenmenin **kendi saat diliminde tam olarak saat kaçta** olacağı yazar (Türkiye için **03:00**; mağaza dünya genelinde 00:00 UTC'de döner).
 - **Kendiliğinden yenilenir** — geri sayım sıfıra indiği anda liste otomatik tazelenir; programı kapatıp açmana ya da bir düğmeye basmana gerek yok.
-- **Senin dilinde** — ürün adları programın diliyle aynı dilde gelir. Menüden dili değiştirdiğinde mağaza da o dile geçer.
+- **Senin dilinde** — ürün adları programın diliyle aynı dilde gelir. Menüden dili değiştirdiğinde mağaza da o dile geçer:
+
+  <img src="docs/shop-en.png" alt="Mağaza İngilizce görünümü" width="300">
+
+  <sub>Aynı mağaza, dil İngilizce'ye alındığında.</sub>
+
 - **Kaynak çökse bile çalışır** — mağaza verisinin geldiği servis arıza yaparsa program yedek bir kaynağa geçer (o durumda ürün adları İngilizce görünür ve kaynak ekranda belirtilir). O da olmazsa en son kaydedilen liste, üstünde açık bir uyarıyla gösterilir; hiçbir zaman sessizce eski veri sunulmaz.
 
 ### 🔄 Arka planda çalışır ve kaynak tüketmez
@@ -80,6 +89,10 @@ Program kendini **otomatik ve sessizce** günceller — senin hiçbir şey yapma
 **A desktop app that counts the chests you open in Fortnite — automatically, permanently, and effortlessly.**
 
 [**⬇️ DOWNLOAD (Windows)**](../../releases/latest) · [All releases](../../releases)
+
+<img src="docs/shop-en.png" alt="Chest Tracker — Fortnite item shop" width="330">
+
+<sub>The in-app Fortnite item shop: live countdown, prices, discounts and rarity colours.</sub>
 
 </div>
 
